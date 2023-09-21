@@ -15,4 +15,4 @@
 
 ## Partition Scheme
 
-<img href="">
+<img href="partitions.png">
