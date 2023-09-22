@@ -15,4 +15,7 @@
 
 ## Partition Scheme
 
-<img href="partitions.png">
+<div align="center">
+   <img height=340 src="partitions.png">
+</div>
+
