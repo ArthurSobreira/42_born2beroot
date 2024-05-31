@@ -16,6 +16,12 @@
 ## Partition Scheme
 
 <div align="center">
+   <table>
+     <tr>
+       <td style="border: 5px solid darkgray;">
    <img height=340 src="partitions.png">
+       </td>
+     </tr>
+   </table>
 </div>
 
